@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scipy
+astropy
+lightkurve
+gatspy
+
+# Optional: for Gaussian Process method
+jax
+jaxlib
+tinygp
+
+# Optional: for SACF method
+# pip install git+https://github.com/tmishra1008/sacf.git
